@@ -6,10 +6,6 @@
  * @type { object } processors
  */
 
- /**
-  * Module dependencies
-  */
-
   const
     gulp    = require('gulp'),
     $       = require('gulp-load-plugins')({"pattern" : ["*"]}),

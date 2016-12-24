@@ -4,9 +4,6 @@
  * @module runSequence
  */
 
-/**
- * Module dependencies
- */
 const
   gulp        = require('gulp'),
   runSequence = require('run-sequence');

@@ -4,9 +4,6 @@
  * @module dotenv
  */
 
-/**
- * Module dependencies
- */
 
 const gulp    = require('gulp');
 const dotenv  = require('dotenv');

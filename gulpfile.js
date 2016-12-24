@@ -6,10 +6,6 @@
  * @module requireDir
  */
 
-/**
- * Module dependencies
- */
-
  const dotenv     = require('dotenv');
  const requireDir = require('require-dir');
 
