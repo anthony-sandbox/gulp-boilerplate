@@ -1,5 +1,5 @@
 /**
- * gulp/tasks/purifycss
+ * gulp/tasks/sourcemaps
  * @module gulp
  * @module $
  * @module dotenv
