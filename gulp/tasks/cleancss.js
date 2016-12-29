@@ -9,7 +9,7 @@
 const
   gulp      = require('gulp'),
   $         = require('gulp-load-plugins')({"pattern" : ["*"]}),
-  cleanCSS  = require('gulp-cleancss')
+  cleanCSS  = require('gulp-cleancss'),
   dotenv    = require('dotenv');
 
   /**
