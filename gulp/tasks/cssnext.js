@@ -1,5 +1,5 @@
 /**
- * gulp/tasks/font-magician
+ * gulp/tasks/cssnext
  * @module gulp
  * @module $
  * @module cssnext
