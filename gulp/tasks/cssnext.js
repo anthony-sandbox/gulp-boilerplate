@@ -28,7 +28,7 @@
  ]
 
 /**
- * Gulp task to remove unused css rules from file
+ * Gulp task to optimize css rules
  */
 
  gulp.task('cssNext', function(){
