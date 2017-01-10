@@ -26,7 +26,7 @@
  ]
 
 /**
- * Gulp task to remove unused css rules from file
+ * Gulp task to download fonts on the fly
  */
 
  gulp.task('font-magician', function(){
