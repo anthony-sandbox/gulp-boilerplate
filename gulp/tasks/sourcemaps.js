@@ -17,7 +17,7 @@
  dotenv.load();
 
 /**
- * Gulp task to remove unused css rules from file
+ * Gulp task to generate sourcemaps
  */
 
  gulp.task('sourcemaps', function(){
